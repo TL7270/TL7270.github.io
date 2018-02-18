@@ -7,16 +7,19 @@ h1 {
 }
 body {
 	text-align: left;
+	margin: 1.5em;
+	line-height: 1.5em
 }
 h3 {font-family: Comfortaa; 
 	font-size: 24px 
 }
-p {font-family: Georgia, monospace;
+p {font-family: Roboto;
 font-size: 14px;
 }
 a {
 	font-style: italic;
 }
+ul {text-align: left;}
 #first {
 	font-weight: bold;
 }
