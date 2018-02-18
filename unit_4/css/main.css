@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+h1 {
+	font-family: Comfortaa;
+	font-size: 28px;
+	font-transform: uppercase;
+	font-weight: bold;
+}
+body {
+	text-align: center;
+}
+h3 {font-family: Comfortaa; 
+	font-size: 24px 
+}
+p {font-family: Georgia, monospace;
+font-size: 14px;
+}
+a {
+	font-style: italic;
+}
+#first {
+	font-weight: bold;
+}
+#second { font-weight: bold, italic
+ }
+ .important {
+ 	font-size: 18px;
+ }
