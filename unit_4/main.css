@@ -10,15 +10,15 @@ body {
 h3 {font-family: Lato, sans-serif
 	font-size: 24px 
 }
-p {font-family: Lato, monospace;
+p {font-family: Lato, sans sans-serif;
 font-size: 14px;
 }
 a {
 	font-style: italic;
 }
 {margin: 0; padding: 0; box-sizing: border-box;}
-#intro {
-	background: url(../unit_3/images/seaplane.JPG);
+#intro 
+{   background: url(/unit_4/images/seaplane.JPG);
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 5em;
