@@ -4,14 +4,6 @@ h1 {
 	font-transform: uppercase;
 	font-weight: bold;
 }
-{margin: 0; padding: 0; box-sizing: border-box;}
-#intro {
-	background: url(../unit_4/images/seaplane.JPG);
-	background-repeat: no-repeat;
-	background-size: cover;
-	padding: 5em;
-	height: 90vh;
-}
 body {
 	text-align: center;
 }
@@ -23,6 +15,14 @@ font-size: 14px;
 }
 a {
 	font-style: italic;
+}
+{margin: 0; padding: 0; box-sizing: border-box;}
+#intro {
+	background: url(../unit_3/images/seaplane.JPG);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 5em;
+	height: 90vh;
 }
 #first {
 	font-weight: bold;
