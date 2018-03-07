@@ -41,7 +41,6 @@ body {
 
 { margin: 0; padding: 0; box-sizing: border-box; }
 #intro {
-	background: url(../unit_3/images/seaplane.JPG);
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 5em;
