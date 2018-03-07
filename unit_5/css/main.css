@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Comfortaa);
-{ margin: 0; padding: 0; box-sizing: border-box; }
+{ margin: 0; padding: 0; box-sizing: border-box; 
+}
 header {
 	background-color: #336699;
-	border: 1px #0BA393;
+	border: 3px #FAFA04;
 	padding: 20px;
 	font-family: Comfortaa;
 	font-size: 30px;
@@ -46,7 +47,7 @@ h1 {
 }
 h2 {
 	font-family: Comfortaa;
-	font-size: 20px;
+	font-size: 22px;
 	font-transform: uppercase;
 	font-weight: bold; 
 }
@@ -58,7 +59,7 @@ h2 {
 }
 h3 {
 	font-family: Comfortaa; 
-	font-size: 24px;
+	font-size: 20px;
 	font-transform: none;
 }
 p {
@@ -72,7 +73,7 @@ a {
 ul {
 	text-align: left;
 	font-family: Roboto;
-	font-size: 12px;
+	font-size: 14px;
 }
 #first {
 	font-weight: bold;
@@ -81,8 +82,9 @@ ul {
 }
 #second { 
 	font-weight: bold, italic
-
+	font-family: Comfortaa;
+	font-size: 16px;
  }
  .important {
- 	font-size: 18px;
+ 	font-size: 15px;
  }
