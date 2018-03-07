@@ -1,18 +1,28 @@
 @import url(https://fonts.googleapis.com/css?family=Comfortaa);
 { margin: 0; padding: 0; box-sizing: border-box; }
 header {
-	background-color: #FFED74;
+	background-color: #336699;
 	border: 1px black solid;
 	padding: 20px;
+	font-family: Comfortaa;
+	font-size: 22px;
+}
+title {
+	font-family: Comfortaa;
+	font-size: 22px;
 }
 nav {
-	background-color: #336699;
+	background-color: #339EFF;
+	font-family: Comfortaa;
+	font-size: 14px;
 }
 article {
 	background-color: #FFFFFF;
 }
 footer {
 	background-color: #336699;
+	font-family: Comfortaa;
+	font-size: 12px;
 }
 div/section {
 	background-color: #FFFFFF;
@@ -30,40 +40,52 @@ h1 {
 	font-transform: uppercase;
 	font-weight: bold;
 }
+h2 {
+	font-family: Comfortaa;
+	font-size: 20px;
+	font-transform: uppercase;
+	font-weight: bold;
 body {
 	text-align: left;
 	margin: 1.5em;
 	line-height: 1.5em;
+	font-family: Roboto;
+	font-size: 12px;
 }
 
-{ margin: 0; padding: 0; box-sizing: border-box; }
+{ margin: 0; padding: 0; box-sizing: border-box; 
+}
 #intro {
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 5em;
 	height: 90vh;
 }
-h3 {font-family: Comfortaa; 
+h3 {
+	font-family: Comfortaa; 
 	font-size: 24px;
 	font-transform: none;
 }
-p {font-family: Roboto;
-font-size: 14px;
+p {
+	font-family: Roboto;
+	font-size: 14px;
 }
 a {
 	font-family: Roboto;
 	font-style: italic;
 }
-ul {text-align: left;
-font-family: Comfortaa;
-font-size: 12px;
+ul {
+	text-align: left;
+	font-family: Comfortaa;
+	font-size: 12px;
 }
 #first {
 	font-weight: bold;
 	font-family: Comfortaa;
 	font-size: 11px;
 }
-#second { font-weight: bold, italic
+#second { 
+	font-weight: bold, italic
  }
  .important {
  	font-size: 18px;
