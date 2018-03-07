@@ -89,19 +89,31 @@ ul {
  	font-size: 15px;
  }
 #two_column {
-    background-color: #FFB7CF;
+    background-color: #e6f3ff;
     border: 1px black solid;
     padding: 20px;
 }
 
 #left {
-    background-color: #E582A2;
+    background-color: #ccffcc;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 30%;
 }
 
 #right {
-    background-color: #E55B88;
+    background-color: #e6ffff;
     border: 1px black solid;
     padding: 20px;
+    float: right;
+    width: 62%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
