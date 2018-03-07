@@ -2,8 +2,8 @@
 { margin: 0; padding: 0; box-sizing: border-box; }
 header {
 	background-color: #FFED74;
-	border: 1px black solid
-	padding 20px
+	border: 1px black solid;
+	padding: 20px;
 }
 nav {
 	background-color: #E8C66A;
@@ -15,7 +15,7 @@ article {
 	background-color: #E89C6C;
 }
 footer {
-	background-color: #FF957E;
+	background-color: #336699;
 }
 div/section {
 	background-color: #FFE2B8;
@@ -26,6 +26,7 @@ div/section {
 	background-size: cover;
 	padding: 5em;
 	height: 90vh;
+}
 h1 {
 	font-family: Comfortaa;
 	font-size: 28px;
@@ -35,12 +36,9 @@ h1 {
 body {
 	text-align: left;
 	margin: 1.5em;
-	line-height: 1.5em
+	line-height: 1.5em;
 }
-<<<<<<< HEAD
 
-
-=======
 { margin: 0; padding: 0; box-sizing: border-box; }
 #intro {
 	background: url(../unit_3/images/seaplane.JPG);
@@ -49,7 +47,6 @@ body {
 	padding: 5em;
 	height: 90vh;
 }
->>>>>>> 18468aa80851dbc6226d0883bb599fddca20bf51
 h3 {font-family: Comfortaa; 
 	font-size: 24px 
 }
