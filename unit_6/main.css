@@ -1,0 +1,129 @@
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+{ margin: 0; padding: 0; box-sizing: border-box; 
+}
+header {
+	background-color: #336699;
+	border: 3px #FAFA04;
+	padding: 20px;
+	font-family: Comfortaa;
+	font-size: 30px;
+	font-color: #FFFFFF;
+}
+title {
+	font-family: Comfortaa;
+	font-size: 28px;
+	font-color: #FFFFFF;
+}
+nav {
+	background-color: #339EFF;
+	font-family: Comfortaa;
+	font-size: 14px;
+}
+a {
+	background-color: #1aa3ff;
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+	width: 200px;
+}
+article {
+	background-color: none;
+	text-align: left;
+}
+footer {
+	background-color: #336699;
+	font-family: Comfortaa;
+	font-size: 12px;
+	font-color: #FFFFFF;
+	text-align: center;
+}
+div/section {
+	background-color: #FFFFFF;
+}
+#intro {
+	background: url(/unit_4/images/seaplane.JPG);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 5em;
+	height: 90vh;
+}
+h1 {
+	font-family: Comfortaa;
+	font-size: 28px;
+	font-transform: uppercase;
+	font-weight: bold;
+	font-color: white;
+}
+h2 {
+	font-family: Comfortaa;
+	font-size: 22px;
+	font-transform: uppercase;
+	font-weight: bold; 
+}
+#intro {
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 5em;
+	height: 90vh;
+}
+h3 {
+	font-family: Comfortaa; 
+	font-size: 20px;
+	font-transform: none;
+}
+p {
+	font-family: Roboto;
+	font-size: 14px;
+}
+a {
+	font-family: Roboto;
+	font-style: italic;
+}
+ul {
+	text-align: left;
+	font-family: Roboto;
+	font-size: 14px;
+}
+#first {
+	font-weight: bold;
+	font-family: Comfortaa;
+	font-size: 16px;
+}
+#second { 
+	font-weight: bold, italic
+	font-family: Comfortaa;
+	font-size: 16px;
+ }
+ .important {
+ 	font-size: 15px;
+ }
+#two_column {
+    background-color: #e6f3ff;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #ccffcc;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: #e6ffff;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
