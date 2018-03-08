@@ -9,18 +9,13 @@ header {
 	font-size: 30px;
 	font-color: #FFFFFF;
 }
-title {
-	font-family: Comfortaa;
-	font-size: 28px;
-	font-color: #FFFFFF;
-}
 nav {
 	background-color: #339EFF;
 	font-family: Comfortaa;
 	font-size: 14px;
 }
 a {
-	background-color: none;
+	background-color: #339EFF;
 	color: white;
 	text-decoration: none;
 	display: inline-block;
