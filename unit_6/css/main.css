@@ -28,6 +28,7 @@ footer {
 	font-family: Comfortaa;
 	font-size: 12px;
 	font-color: #FFFFFF;
+	text-align: center;
 }
 div/section {
 	background-color: #FFFFFF;
@@ -44,6 +45,7 @@ h1 {
 	font-size: 28px;
 	font-transform: uppercase;
 	font-weight: bold;
+	font-color: #FFFFFF;
 }
 h2 {
 	font-family: Comfortaa;
